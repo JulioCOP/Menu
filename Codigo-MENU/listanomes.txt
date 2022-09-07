@@ -1,0 +1,11 @@
+Júlio ;25
+César;25
+Ronaldo;38
+Givanildo;34
+Luíza;26
+Maria;5
+Rafael;32
+Jose;67
+Michele;32
+João ;12
+Lara;17
